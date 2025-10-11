@@ -32,5 +32,5 @@ A modern, responsive portfolio website built with Vue.js showcasing my skills, e
 
 Sufyan Shaik
 - Email: sufyanshaik608@gmail.com
-- LinkedIn: [linkedin.com/in/sufyanshaik](https://linkedin.com/in/sufyanshaik)
-- GitHub: [github.com/sufyanshaik](https://github.com/sufyanshaik)
+- LinkedIn: [linkedin.com/in/sufyanshaik](https://linkedin.com/in/sufyanshaik03)
+- GitHub: [github.com/sufyanshaik](https://github.com/crumbs1505)

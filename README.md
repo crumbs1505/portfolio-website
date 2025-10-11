@@ -8,7 +8,6 @@ A modern, responsive portfolio website built with Vue.js showcasing my skills, e
 - **Modern UI**: Clean, professional design with smooth animations
 - **Single Page Application**: Smooth scrolling navigation
 - **Interactive Elements**: Hover effects and smooth transitions
-- **SEO Optimized**: Semantic HTML structure
 - **Fast Loading**: Optimized assets and modern build tools
 
 ## Sections

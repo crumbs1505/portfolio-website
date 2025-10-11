@@ -4,7 +4,7 @@ export const portfolioData = {
     name: "Hi ! I'm Sufyan",
     title: "Computer Science Student & Backend Developer",
     email: "sufyanshaik608@gmail.com",
-    bio: "Computer Science student with strong backend development experience building scalable full-stack applications,RESTful APIs, and AI-integrated systems. Proficient in Node.js, TypeScript, and modern web frameworks, with expertise in designing secure microservices and cloud-based solutions. A blockchain enthusiast with expertise in Solidity and smart contract development.",
+    bio: "Driven Computer Science student and backend developer, crafting scalable full-stack applications, RESTful APIs, and AI-integrated systems with expertise in secure microservices and cloud solutions. I also have international work experience and a proven track record of leadership in Toastmasters International.",
     github: "crumbs1505",
     linkedin: "sufyanshaik03"
   },
@@ -54,8 +54,8 @@ export const portfolioData = {
   ],
   
   awards: [
-    { name: "1st Place, Area D4 Humorous & Evaluation Speech Contest", year: "2024" },
-    { name: "1st Place, Area D5 Humorous Speech Contest", year: "2023" },
+    { name: "1st Place, Area D4 Humorous & Evaluation Speech Contest",issuer:"Toastmasters International", year: "2024" },
+    { name: "1st Place, Area D5 Humorous Speech Contest",issuer:"Toastmasters International",year: "2023" },
     { name: "Area Support Champion Award", issuer: "Toastmasters International", year: "2024" }
   ]
 }

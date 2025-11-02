@@ -175,8 +175,19 @@
 <script>
 import { portfolioData } from './data.js'
 
+/**
+ * @module App
+ * @description The main Vue component that serves as the root of the portfolio application.
+ * It imports all necessary data from `data.js` and renders the different sections of the portfolio,
+ * including the navigation, hero, about, experience, projects, certifications, and contact sections.
+ */
 export default {
   name: 'App',
+  /**
+   * @function data
+   * @description Returns the initial data for the component.
+   * @returns {Object} An object containing the portfolio data, structured into personal, skills, experience, projects, certifications, and awards.
+   */
   data() {
     return {
       personal: portfolioData.personal,
@@ -187,6 +198,13 @@ export default {
       awards: portfolioData.awards
     }
   },
+  /**
+   * @function mounted
+   * @description A Vue lifecycle hook that is called after the component has been mounted to the DOM.
+   * It sets up two key functionalities:
+   * 1. Smooth scrolling for all anchor links that point to sections within the page.
+   * 2. A scroll event listener that changes the navbar's background and shadow based on the scroll position, creating a dynamic effect.
+   */
   mounted() {
     // Smooth scrolling for navigation links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {

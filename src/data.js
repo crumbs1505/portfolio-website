@@ -1,4 +1,14 @@
-// Portfolio data - Easy to modify and expand
+/**
+ * @fileoverview This file contains the central data object for the portfolio.
+ * It is designed to be easily configurable, allowing for quick updates to the portfolio's content.
+ * @property {object} portfolioData - The main object containing all portfolio information.
+ * @property {object} portfolioData.personal - Personal details such as name, title, email, and social media links.
+ * @property {object} portfolioData.skills - Categorized lists of technical skills.
+ * @property {Array<object>} portfolioData.experience - A list of professional experiences or jobs.
+ * @property {Array<object>} portfolioData.projects - A collection of personal or professional projects.
+ * @property {Array<object>} portfolioData.certifications - A list of certifications obtained.
+ * @property {Array<object>} portfolioData.awards - A list of awards and recognitions.
+ */
 export const portfolioData = {
   personal: {
     name: "Hi ! I'm Sufyan",

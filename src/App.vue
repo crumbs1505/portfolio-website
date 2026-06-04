@@ -361,9 +361,7 @@
               <h2 class="section-heading-reveal font-headline-lg text-headline-lg text-on-surface mb-6">
                 Let's <span class="text-primary">Connect !</span>
               </h2>
-              <p class="font-body-lg text-body-lg text-on-surface-variant mb-10 max-w-md">
-                Currently open to backend engineering roles, blockchain consulting, and collaborative open-source projects.
-              </p>
+
               <div class="space-y-6">
                 <div class="flex items-center gap-4 group">
                   <div class="w-10 h-10 bg-primary/10 rounded flex items-center justify-center group-hover:bg-primary/20 transition-colors">
